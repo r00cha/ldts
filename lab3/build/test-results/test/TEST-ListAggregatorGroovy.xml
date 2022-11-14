@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ListAggregatorGroovy" tests="1" skipped="0" failures="1" errors="0" timestamp="2022-11-08T08:40:53" hostname="HPLINUX" time="0.203">
+  <properties/>
+  <testcase name="testing distinct bug 8726" classname="ListAggregatorGroovy" time="0.203">
+    <failure message="groovy.lang.MissingPropertyException: No such property: GenericListDeduplicator for class: ListAggregatorGroovy" type="groovy.lang.MissingPropertyException">groovy.lang.MissingPropertyException: No such property: GenericListDeduplicator for class: ListAggregatorGroovy
+	at ListAggregatorGroovy.testing distinct bug 8726(ListAggregatorGroovy.groovy:8)
+</failure>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
